@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "arthur_dercq_palindrome": "^0.1.0"
+    "arthur_dercq_palindrome": "^0.1.0",
+    "jsdom": "^23.0.1",
+    "urllib": "^3.22.1"
   }
 }
